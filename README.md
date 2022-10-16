@@ -24,3 +24,5 @@ Cara kedua :
 
 
 ## Menulis File
+
+<IMG src="https://github.com/rosalarasati/MINGGU-KE-II-TUTORIAL-PYTHON-PY6/blob/5ef8efb52b0dba52b140c513751b825e6537d62b/IMG-20221016-WA0076.jpg">
